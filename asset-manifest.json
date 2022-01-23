@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/Tick-App/static/js/main.0e5892d8.js",
+    "static/js/787.c66070e7.chunk.js": "/Tick-App/static/js/787.c66070e7.chunk.js",
+    "index.html": "/Tick-App/index.html",
+    "main.0e5892d8.js.map": "/Tick-App/static/js/main.0e5892d8.js.map",
+    "787.c66070e7.chunk.js.map": "/Tick-App/static/js/787.c66070e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0e5892d8.js"
+  ]
+}
